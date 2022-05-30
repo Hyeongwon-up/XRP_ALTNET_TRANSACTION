@@ -9,6 +9,8 @@
   "dependencies": {
     "command-line-args": "^5.1.1",
     "dotenv": "^16.0.1",
+    "ripple-lib": "^1.10.0",
+    "xrpl": "^2.2.3"
   },
   "repository": {
     "type": "git",
