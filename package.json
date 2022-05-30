@@ -1,0 +1,23 @@
+{
+  "name": "xrp_altnet_transaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "dotenv": "^16.0.1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeongwon-up/XRP_ALTNET_TRANSACTION.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeongwon-up/XRP_ALTNET_TRANSACTION/issues"
+  },
+  "homepage": "https://github.com/Hyeongwon-up/XRP_ALTNET_TRANSACTION#readme"
+}
